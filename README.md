@@ -162,9 +162,9 @@ Response
 
 Replace these with your screenshots.
 
-<img src="images/home.png">
+<img src="preview/home.png">
 
-<img src="images/chat.png">
+<img src="preview/chat.png">
 
 ---
 
