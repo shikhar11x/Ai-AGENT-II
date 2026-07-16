@@ -302,5 +302,37 @@
     {
         "role": "assistant",
         "content": "The current weather in Sohna is mostly sunny with a temperature of 31.1°C and a wind speed of 4.7 km/h."
+    },
+    {
+        "role": "user",
+        "content": "what is cockroach janta party"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems that there is no information available on the \"Cockroach Janta Party\". It's possible that it's a fictional or non-existent entity. If you could provide more context or details about what you're referring to, I may be able to help you better."
+    },
+    {
+        "role": "user",
+        "content": "what is cockroach janta party"
+    },
+    {
+        "role": "assistant",
+        "content": "It appears that there is no information available on the \"Cockroach Janta Party\". It's possible that it's a fictional or non-existent entity. If you're looking for information on a specific topic or organization, I'd be happy to try and help you with that. Alternatively, I can try searching the web for more information on the \"Cockroach Janta Party\". \n\n{\n    \"tool\":\"web_search\",\n    \"query\":\"Cockroach Janta Party\"\n}"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "what is cockroach janta party"
+    },
+    {
+        "role": "assistant",
+        "content": "The Cockroach Janta Party (CJP) is an Indian youth-based satirical political movement founded on May 16, 2026, by Abhijeet Dipke. It was created in response to remarks made by the Chief Justice of India, Surya Kant, who called some activists and unemployed youth \"cockroaches\" and \"parasites of society\". The movement has gained rapid popularity online, with over 350,000 sign-ups and over 20 million followers on Instagram within a week of formation. The CJP campaigns against broader societal, economic, and political issues affecting the Indian youth, and has organized offline protests and community service activities across various states. Although it is not registered as a political party with the Election Commission of India, the CJP has become a voice for India's burnt-out youth, representing the overqualified, underemployed, and politically frustrated."
     }
 ]

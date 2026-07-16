@@ -3,3 +3,4 @@ gunicorn==23.0.0
 python-dotenv==1.1.1
 openai==2.45.0
 requests==2.34.2
+ddgs
